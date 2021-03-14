@@ -1,3 +1,3 @@
 # Folder-Emailer
-Creating a folder which automatically emails files in it to me.
+Emails files from a folder on my desktop to my email address.
 Inspiration from a similar project done by Filip Telescu.
